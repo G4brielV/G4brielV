@@ -4,7 +4,7 @@
 
 # Hello World!!
 
-Busco melhorar projetos e implementações web robustas, com focando em back-end escalável e performance otimizada. Criação de APIs RESTful seguras e integração com bancos de dados relacionais, garantindo consistência, alta disponibilidade e fácil manutenção.
+Busco melhorar projetos e implementações web robustas, com focando em back-end escalável e performance otimizada. 
 
 ---
 
