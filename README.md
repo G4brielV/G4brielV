@@ -35,7 +35,5 @@ Busco melhorar projetos e implementações web robustas, com focando em back-end
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielV&layout=compact&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=G4brielV&show_icons=true&theme=dark)
 
